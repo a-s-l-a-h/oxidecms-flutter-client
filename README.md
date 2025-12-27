@@ -17,15 +17,15 @@ Welcome to the official Flutter client for **OxideCMS**, a modern, fast, and off
 
 
 
-## 🌐 Project Ecosystem
+## 🌐 Project Repositories
 
-The OxideCMS project is composed of multiple repositories that work together.
+The OxideCMS project is composed of two primary repositories: the front-end client and the back-end server.
 
 | Repository                                                                      | Description                                  |
 | ------------------------------------------------------------------------------- | -------------------------------------------- |
-| 📍 **[oxidecms-flutter-client](https://github.com/a-s-l-a-h/oxidecms-flutter-client)** (You are here) | The native Flutter mobile client for Android & iOS. |
 | ⚙️ **[oxidecms-core-backend](https://github.com/a-s-l-a-h/oxidecms-core-backend)** | The core backend server that provides the API. |
-| 🖥️ **[oxidecms-web](https://github.com/a-s-l-a-h/oxidecms-web)**                  | The Preact-based PWA web client.             |
+| 🖥️ **[oxidecms-web](https://github.com/a-s-l-a-h/oxidecms-web)**  | The Preact front-end client application.     |
+| 📱 **[oxidecms-flutter-client](https://github.com/a-s-l-a-h/oxidecms-flutter-client)**  | The Flutter based front-end client. |
 
 
 ## 🚀 Tech Stack
