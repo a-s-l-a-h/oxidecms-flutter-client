@@ -1,8 +1,3 @@
-Got it. The Flutter project itself (`appbase_client`) is nested inside the main Git repository (`oxidecms-flutter-client`). This is an important detail for new developers.
-
-Here is the updated `README.md` that reflects this nested structure and clarifies all the commands and paths accordingly.
-
----
 
 # OxideCMS Flutter Client
 
@@ -20,9 +15,7 @@ Welcome to the official Flutter client for **OxideCMS**, a modern, fast, and off
 
 > **Note**: This is the front-end client. For details on the backend that powers these features (API, search logic, etc.), please visit the **[OxideCMS Core Backend repository](https://github.com/a-s-l-a-h/oxidecms-core-backend)**.
 
-## 🎥 Demo Video
 
-https://github.com/user-attachments/assets/9298699e-55dc-4ea6-b539-207c2454c216
 
 ## 🌐 Project Ecosystem
 
